@@ -16,6 +16,9 @@ header{
     align-items: center;
     box-shadow: 1px 1px 8px black;
     justify-content: space-between;
+    position: sticky;
+    top: 0;
+
 }
 
 header h1{
@@ -50,7 +53,6 @@ header nav a:nth-child(6){
     background-size: cover;
     height: 500px;
 }
-/* banner section end */
 /* banner section end */
 
 /* feature section start */
